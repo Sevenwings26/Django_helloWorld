@@ -1,0 +1,1 @@
+The settings.py file controls our project’s settings, urls.py tells Django which pages to build in response to a browser or URL request, and wsgi.py, which stands for web server gateway interface, helps Django serve our eventual web pages. The last file manage.py is used to execute various Django commands such as running the local web server or creating a new app.
